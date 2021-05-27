@@ -1,6 +1,16 @@
-# My Portfolio
+<!DOCTYPE html>
+<html>
+<head>
+<title>Website Changed</title>
+</head>
+<body>
 
- - To visit this page go to [imsoumya18.github.io/portfolio](https://imsoumya18.github.io/portfolio)
+<h1>My Portfolio is shifted to my new website</h1>
+<p>Click here: <a href="http://imsoumya18.github.io/">imsoumya18.github.io</a></p>
+
+</body>
+</html>
+
 
  **SUPPORT ME:**
  - UPI: soumyadeep184@okaxis.com
