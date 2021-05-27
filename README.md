@@ -1,15 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Website Changed</title>
-</head>
-<body>
-
 <h1>My Portfolio is shifted to my new website</h1>
 <p>Click here: <a href="http://imsoumya18.github.io/">imsoumya18.github.io</a></p>
 
-</body>
-</html>
 
 
  **SUPPORT ME:**
